@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Deployed under https://socket-messaging-app.vercel.app/
+as a showcase for https://www.codeur.com/projects/477135-developpeur-full-stack-pour-finaliser-une-plateforme-de-messagerie
+
 
 ## Getting Started
 
